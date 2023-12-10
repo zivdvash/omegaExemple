@@ -15,6 +15,12 @@ def main():
             print(num1 + num2)
         elif p == 2:
             print(num1 - num2)
+        elif p == 3:
+            print(num1 * num2)
+        elif p == 4:
+            print(num1 / num2)
+        elif p == 5:
+            print(num1 ** num2)
 
 
         else:
